@@ -1,10 +1,31 @@
-Java Application
-======================
-This is a simple Java application. This application serves as a basic template for a console application using Java.
 
-# How to run?
-Open the terminal run run the following command to run the Java program 
 
-```sh
-java Main.java
-```
+
+
+## Technologies Used
+- *Java*
+- *OOP Concepts*
+- *Scanner class* (for input)
+- *each and every concept in java 
+
+---
+
+## Project Structure
+|--ShoppingCartSystem.java # Main program
+
+|--README.md               #documentation
+
+
+# How to Run 
+--bash 
+git clone https://github.com/pranavkopparthi/Shopping-Cart-System.git
+
+javac ShoppingCartSystem.java
+java ShoppingCartSystem
+
+
+
+# Author 
+-Developed by pranav 
+-Email : pranavkopparthi@gmail.com
+-GitHub : pranavkopparthi
